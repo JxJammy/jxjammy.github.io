@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: jxjammy.github.io/sitemap.xml
